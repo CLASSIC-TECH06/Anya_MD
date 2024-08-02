@@ -16,8 +16,8 @@ module.exports = {
     /**
      * owner details and parameters
      */
-    ownername: process.env.Owner_Name || "Pika~Kun",
-    ownernumber: process.env.Owner_Number || "916900904828",
+    ownername: process.env.Owner_Name || "Classic Guy",
+    ownernumber: process.env.Owner_Number || "2348171139637",
     instagramId: process.env.Insta || "3.69_pika",
 
     /**
@@ -29,8 +29,8 @@ module.exports = {
     groupLink: process.env.GcLink || "https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX",
     warns: Number(process.env.Warn_Limits) || 3,
     cooldown: 5, // default cooldown time per command in seconds
-    mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
-    sessionId: process.env.SESSION_ID || "YOUR_SESSION_ID",
+    mongoUrl: process.env.MongoDB || "mongodb+srv://CTech:ctech@ctech-cluster.xqhs2rz.mongodb.net/?retryWrites=true&w=majority&appName=Ctech-Cluster",
+    sessionId: process.env.SESSION_ID || "ZVZCb_Queen-Anya_EVTNFEjRkpDNk4wZDZXMEQ3MkJhT2Jsb_Queen-Anya_DNmYVphamRWQmJpU0U4ZndvMDEwQTZ6QQ==",
 
     /**
      * thumbnails and medias
